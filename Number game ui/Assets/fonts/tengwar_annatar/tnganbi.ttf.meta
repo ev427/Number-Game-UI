@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ca32db6f2cdbdf44d9c2439ab02cc7af
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tengwar Annatar
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d873cbe6a6ac43e469c44093ec7cc9ca, type: 3}
+  - {fileID: 12800000, guid: 3453a5a30dda7df4ba59038dcbe7ff71, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
